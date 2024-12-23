@@ -13,7 +13,7 @@ I'm a passionate **Software Engineer** with 3+ years of experience in the **BFSI
 - **Firebase:** Real-time DB, Authentication, Cloud Messaging, Remote Config, Crashlytics
 - **Databases:** SQLite, Room, Realm, MySQL
 - **Code Quality & Testing:** Unit Testing, Integration Testing, Code Reviews
-- **Performance Optimization:** Memory Management, Code Optimization, Data Security Protocols
+- **Performance Optimization:** Memory Management, Code Optimization, Data Security Protocols (RSA & AES)
 - **Mentorship:** Conducting code reviews and mentoring junior developers
 
 ---
@@ -31,5 +31,12 @@ I emphasize clean code, performance, and best practices like **Material Design**
 - Expanding my knowledge in **Kotlin Multiplatform**
 
 ---
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Kailas Mantri](https://www.linkedin.com/in/kailasmantri1703/) has waived all copyright and related or neighboring rights to this work.
+
 
 Let's connect! 🚀
