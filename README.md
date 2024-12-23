@@ -1,6 +1,6 @@
 # 👨‍💻 Software Engineer | Flutter & Android Developer
 
-I'm a passionate **Software Engineer** with 3+ years of experience in the **BFSI domain**, specializing in **Flutter** and **Android Application Development** using **Java**, **Kotlin**, and **Dart**. I focus on building robust, scalable, and high-performance mobile applications using modern architectures like **MVVM**, **Provider**, **Bloc**, **MVC**, **GetX**, and frameworks like **Flutter** and **Jetpack Compose**.
+I'm a passionate **Software Engineer** with 3+ years of experience in the **BFSI domain**, specializing in mobile application development for **Flutter**, **Android** and **IOS** using **Java**, **Kotlin**, **Dart** and **Swift**. I focus on building robust, scalable, and high-performance mobile applications using modern architectures like **MVVM**, **Provider**, **MVC**, **Bloc**, **GetX**, and frameworks like **Flutter** and **Jetpack Compose**.
 
 ---
 
@@ -12,6 +12,7 @@ I'm a passionate **Software Engineer** with 3+ years of experience in the **BFSI
 - **API Integration:** RESTful APIs, 3rd-Party API Integration
 - **Firebase:** Real-time DB, Authentication, Cloud Messaging, Remote Config, Crashlytics
 - **Databases:** SQLite, Room, Realm, MySQL
+- **Deployment**  : Application deployment on **Google Play Store** and **Apple App Store** using **manual processes** and **cloud CI/CD pipelines** with **GitHub Actions** and **Jenkins**
 - **Code Quality & Testing:** Unit Testing, Integration Testing, Code Reviews
 - **Performance Optimization:** Memory Management, Code Optimization, Data Security Protocols (RSA & AES)
 - **Mentorship:** Conducting code reviews and mentoring junior developers
